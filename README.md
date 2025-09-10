@@ -1,2 +1,2 @@
 # JavaInterviewQuestionsForQE
-Must know Java questions for a Quality Engineer for interview
+Must know Java questions if you are appearing for Quality Engineer interview
