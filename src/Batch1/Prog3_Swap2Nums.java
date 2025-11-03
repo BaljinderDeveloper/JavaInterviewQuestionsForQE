@@ -12,5 +12,7 @@ public class Prog3_Swap2Nums {
         a = a + b;
         b = a - b;
         a = a - b;
+
+        a = (a + b) - (b = a);
     }
 }
